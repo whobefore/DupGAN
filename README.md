@@ -1,0 +1,2 @@
+# DupGAN
+DupGAN(CVPR2018)
