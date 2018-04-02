@@ -9,9 +9,9 @@ This code is implemented according to <a href="https://github.com/yunjey/mnist-s
 $ python main.py --l2_reconst_loss=True
 ```
 ## Results in paper
-* with different network architectures
-** 1) Architectures in original paper of DupGAN
-** 2) Architectures in DRCN: <a href="https://arxiv.org/abs/1607.03516">Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation</a>
+* With different network architectures
+1. Architectures in original paper of DupGAN
+2. Architectures in DRCN: <a href="https://arxiv.org/abs/1607.03516">Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation</a>
 <table>
   <tr>
     <th width=20%, bgcolor=yellow>Encoder architecture</th>
